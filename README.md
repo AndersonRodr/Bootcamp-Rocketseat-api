@@ -1,5 +1,7 @@
 # Bootcamp-Rocketseat-api
 
+==> Executar o projeto: npm dev
+
 Instalações necessárias:
 1. Instalar o Chocolatey pelo cmd;
 2. Instalar Nodejs via gerenciador de pacotes
