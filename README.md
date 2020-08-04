@@ -1,6 +1,6 @@
 # Bootcamp-Rocketseat-api
 
-==> Executar o projeto: npm dev
+==> Executar o projeto: yarn dev
 
 Instalações necessárias:
 1. Instalar o Chocolatey pelo cmd;
